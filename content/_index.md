@@ -37,7 +37,7 @@ sections:
         title: Ipsum
       - icon: fa-barcode
         title: Dolor
-      - icon: fa-chart-pie
+      - icon: fa-chartpie
         title: Feugiat
       - icon: fa-briefcase
         title: Tempus
