@@ -11,7 +11,7 @@ sections:
       School leavers are not getting the\
       information that they need to make \
       sensible choices about their futures.
-    img_path: images/pic01.jpg
+    img_path: /images/lecture.jpg
     title: workMYwork
     type: intro
   - actions:
