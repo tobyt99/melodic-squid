@@ -35,7 +35,7 @@ sections:
         title: Lorem
       - icon: fa-cog
         title: Ipsum
-      - icon: fa-diamond
+      - icon: fa-barcode
         title: Dolor
       - icon: fa-camera-retro
         title: Feugiat
