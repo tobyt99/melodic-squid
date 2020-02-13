@@ -17,16 +17,16 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Details
+        label: More details
         url: /generic
     component: features.html
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
+      Using machine learning based on available public information published
+      annually we help pupils in lower sixth form years filter the data;
+      University performance, course satisfaction, entry requirements as well as
+      earnings information.  We also provide information about alternatives to
+      UK University, including overseas educational opportunities,
+      apprenticeships and work.
     subtitle: |-
       Universities and the Office for Students publish large\
       volumes of data each year on students and courses in the UK.
