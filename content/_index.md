@@ -28,8 +28,8 @@ sections:
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
     subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
+      Universities and the Office for Students publish large\
+      volumes of data each year on students and courses in the UK.
     symbol_display:
       - icon: fa-code
         title: Lorem
@@ -41,7 +41,7 @@ sections:
         title: Feugiat
       - icon: fa-briefcase
         title: Tempus
-    title: Ipsum malesuada
+    title: Plentiful data
     type: features
   - actions:
       - is_primary: false
