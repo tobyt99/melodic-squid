@@ -4,7 +4,7 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Get Started
+        label: Find out more
         url: /generic
     component: intro.html
     content: |-
@@ -12,7 +12,7 @@ sections:
       information that they need to make \
       sensible choices about their futures.
     img_path: images/pic01.jpg
-    title: Reflex
+    title: workMYwork
     type: intro
   - actions:
       - is_primary: false
@@ -64,14 +64,15 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Get Started
+        label: Understand?
         url: /generic
     component: mission.html
     content: |-
-      Aptent taciti sociosqu litora torquent et conubia sed etiam.  
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam  
-      turpis mauris, ultricies erat malesuada quis.
-    title: Amet ullamcorper
+      The average 3 year course costs around £50k.\
+      Tuition fees automatically qualify for loan and living expenses \
+      are means tested upto £6k p/a.  Students pay them back at \
+      marginal 9% tax rate on earnings above £25k.
+    title: Funding & finances
     type: mission
 menu:
   main:
