@@ -50,12 +50,10 @@ sections:
         url: /generic
     component: spotlight.html
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
+      We are looking for sponsors to help us realise our vision of building the
+      default source of information for pupils at secondary school.  Working
+      with the students directly to define the solution and offering placement
+      opportunities in our emerging software engineering business.
     subtitle: ''
     title: Our ideas
     type: spotlight
