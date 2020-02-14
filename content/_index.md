@@ -14,11 +14,7 @@ sections:
     img_path: /images/lecture.jpg
     title: wMw
     type: intro
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: More details
-        url: /generic
+  - actions: []
     component: features.html
     content: >-
       Using machine learning based on available public information published
