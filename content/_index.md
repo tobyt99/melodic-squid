@@ -12,7 +12,7 @@ sections:
       information that they need to make \
       sensible choices about their futures.
     img_path: /images/lecture.jpg
-    title: workMYwork
+    title: wMw
     type: intro
   - actions:
       - is_primary: false
