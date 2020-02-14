@@ -1,5 +1,5 @@
 ---
-title: Apprenticeships
+title: Their choices
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
   facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
