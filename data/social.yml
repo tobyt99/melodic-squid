@@ -1,19 +1,20 @@
 enabled: true
-title: Magna lorem ipsum
+title: Get involved
 social_content: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
-  facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-  per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
+  We are looking for sponsors to help us realise our vision of building the
+  default source of information for pupils at secondary school. Working with the
+  students directly to define the solution and offering placement opportunities
+  in our emerging software engineering business.
 social_links:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-twitter
     link_url: '#'
-  - title: Instagram
-    icon: fa-instagram
+    title: Twitter
+  - icon: fa-instagram
     link_url: '#'
-  - title: Snapchat
-    icon: fa-snapchat-ghost
+    title: Instagram
+  - icon: fa-snapchat-ghost
     link_url: '#'
-  - title: GitHub
-    icon: fa-github
+    title: Snapchat
+  - icon: fa-github
     link_url: '#'
+    title: GitHub
