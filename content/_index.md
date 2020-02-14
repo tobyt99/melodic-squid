@@ -56,10 +56,8 @@ sections:
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
-    title: Duis torquent
+    subtitle: ''
+    title: Our ideas
     type: spotlight
   - actions:
       - is_primary: false
