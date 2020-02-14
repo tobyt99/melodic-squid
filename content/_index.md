@@ -46,7 +46,7 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Details
+        label: Get in touch
         url: /generic
     component: spotlight.html
     content: >-
